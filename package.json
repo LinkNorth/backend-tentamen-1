@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server/server.js"
+  }
+}
